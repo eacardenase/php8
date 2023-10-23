@@ -1,3 +1,3 @@
 <?php
 
-echo PHP_VERSION;
+require __DIR__ . '/constructs/nullsafe-operator.php';
